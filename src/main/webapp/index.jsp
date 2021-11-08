@@ -1,6 +1,6 @@
 <html>
 <body>
-<h> hi this is PARSHA NARAYANA </h>
-<h1> sashank,charan </h1>
+<h1> hi this is PARSHA NARAYANA </h1>
+<h2> sashank,charan </h2>
 </body>
 </html>
